@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee9d829-2a57-4eba-a438-c5da94c5d810" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoListApp/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoListApp/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoListApp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListApp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoListApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoListApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListApp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TodoListProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoListProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TodoListProject/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +39,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="SharedIndexes">
